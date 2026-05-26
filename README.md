@@ -33,7 +33,7 @@ Streamlit
 Pickle
 
 # Project Structure
-
+```bash
 Credit-Card-Fraud-Detection/
 │
 ├── screenshots/
