@@ -45,6 +45,7 @@ Credit-Card-Fraud-Detection/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 # Machine Learning Workflow
 Data Collection
