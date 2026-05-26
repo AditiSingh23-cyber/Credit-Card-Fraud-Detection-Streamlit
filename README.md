@@ -15,7 +15,7 @@ Fraud prediction system
 Streamlit web application deployment
 
 
-# 🚀 Features
+#  Features
 Data Cleaning & Preprocessing
 Exploratory Data Analysis (EDA)
 Fraud Detection using Machine Learning
@@ -23,7 +23,7 @@ Interactive Streamlit Web Application
 Real-time Transaction Prediction
 Visualization of Fraud Patterns
 
-# 🛠️ Technologies Used
+#  Technologies Used
 Python
 Pandas
 NumPy
@@ -31,6 +31,7 @@ Matplotlib
 Scikit-learn
 Streamlit
 Pickle
+
 # Project Structure
 
 Credit-Card-Fraud-Detection/
